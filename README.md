@@ -1,0 +1,2 @@
+# Expression-Evaluation-Binary-Trees
+A program that can take user input, parse the input into tokens and create a binary tree to store the expression correctly. The tree can then be displayed using two of the three traversal methods: post-order and in-order. After displaying the stored binary tree, the program then evaluates the tree to give the result of the expression. It allows the use of keywords such as 'let' which allows variables to be given values prior to their use in the expression. This was completed as part of my Data Structures and Algorithms module.
